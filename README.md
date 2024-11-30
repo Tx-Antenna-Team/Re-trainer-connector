@@ -7,12 +7,12 @@ Machine for support operatring process to assemble re-trainer connector marelli 
 
 1.) Machine drawing flowder.
 
+1.1) 2D drawing.
+
+1.1) 3D drawing.
+
 2.) Machine program.
-
-    2.1) PLC program.
-
 
 
 ## Machine.
-
-![App Screenshot](https://image.makewebcdn.com/makeweb/m_1920x0/aET3f5n2w/DefaultData/12_1.jpg)
+![image](https://github.com/user-attachments/assets/319185ca-db67-422f-a57a-1f10454fce5a)
