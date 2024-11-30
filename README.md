@@ -1,6 +1,6 @@
 # Re-trainer connector for Marelli model.
 
-Machine for support operatring process to assemble re-trainer connector marelli model (DC010).
+Machine for support operatring process to assemble re-trainer connector marelli model.
 
 
 ## Appendix
