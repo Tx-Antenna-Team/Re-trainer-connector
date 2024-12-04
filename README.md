@@ -12,8 +12,11 @@ Machine for support operatring process to assemble re-trainer connector marelli 
 1.1) 3D drawing.
 
 2.) Machine program.
+
 1.)PLC
+
 2.)TOUCH SCEEN
+
 3.)CAMERA
 
 
