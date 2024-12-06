@@ -13,11 +13,7 @@ Machine for support operatring process to assemble re-trainer connector marelli 
 
 2.) Machine program.
 
-1.)PLC
-
-2.)TOUCH SCEEN
-
-3.)CAMERA
+2.1.)PLC
 
 
 ## Machine.
